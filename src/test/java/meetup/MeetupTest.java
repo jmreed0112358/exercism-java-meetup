@@ -1,6 +1,9 @@
+package meetup;
 import org.joda.time.DateTime;
 import org.joda.time.DateTimeConstants;
 import org.junit.Test;
+
+import meetup.MeetupSchedule;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.joda.time.DateTimeConstants.*;
